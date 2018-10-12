@@ -34,3 +34,12 @@ bower install bootstrap
 语法检查
 前后端单元测试
 服务的自动重启
+
+# 测试路径
+- localhost:3000
+
+- localhost:3001/movie/1
+
+- localhost:3000/admin/movie
+
+- localhost:3000/admin/list
